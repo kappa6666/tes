@@ -1,0 +1,2 @@
+ro.build.id=N2G48
+ro.build.display.id=N2G48B
